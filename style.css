@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
   color: #ff0080;
   margin: 10px 0;
 }
